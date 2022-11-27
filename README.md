@@ -2,7 +2,7 @@
 
 ![](.github/img/header.png)
 
-# crugg.de
+# https://crugg.de
 
 ![](.github/img/builtwith@0.25.png)
 ![](.github/img/lanyard@0.25.png)
